@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Projekt_1.dir/main.cpp.o CMakeFiles/Projekt_1.dir/Quicksort.cpp.o CMakeFiles/Projekt_1.dir/heapsort.cpp.o CMakeFiles/Projekt_1.dir/wrappers.cpp.o CMakeFiles/Projekt_1.dir/interfaces.cpp.o CMakeFiles/Projekt_1.dir/MergeSort.cpp.o CMakeFiles/Projekt_1.dir/hybridSort.cpp.o  -o Projekt_1 
